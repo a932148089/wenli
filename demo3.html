@@ -90,28 +90,28 @@
              },
              56:{
                  div:7,audio:400+400*(8/8)
-             },
+             }
          }
 
          window.onload=function (ev) {
+
+             var audio=new AudioContext()
+
 
              var divs=document.querySelectorAll(".box div");
              document.onkeydown=function (ev) {
                 var code=ev.keyCode
                 divs[datas[code]["div"]].style.boxShadow="0 0 20px #000 inset";
 
-
              }
 
              document.onkeyup=function (ev) {
-                 var code=ev.keyCode
+                 var code=ev.keyCode;
                  divs[datas[code]["div"]].style.boxShadow="none";
 
              }
 
          }
-
-
 
 
     </script>
