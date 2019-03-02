@@ -94,13 +94,22 @@
          }
 
          window.onload=function (ev) {
-
              var audio=new AudioContext()
-
-
              var divs=document.querySelectorAll(".box div");
+             var ao;
              document.onkeydown=function (ev) {
-                var code=ev.keyCode
+
+                 ao=audio.createOscillator()
+                 var an=audio.createAnalyser()
+                 var gain=audio.createGain()
+                 ao.connect(an)
+                 ao.connect(gain)
+                 gain.connect(audio.destination)
+
+                 var code=ev.keyCode
+                 ao.frequency.setValueAtTime(datas[code]["audio"],audio.currentTime)
+
+                 ao.start(audio.currentTime)
                 divs[datas[code]["div"]].style.boxShadow="0 0 20px #000 inset";
 
              }
@@ -108,9 +117,8 @@
              document.onkeyup=function (ev) {
                  var code=ev.keyCode;
                  divs[datas[code]["div"]].style.boxShadow="none";
-
+                 ao.stop(audio.currentTime)
              }
-
          }
 
 
