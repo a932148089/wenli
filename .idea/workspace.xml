@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adfc46bb-d99a-41ba-ac61-4a554daab3c4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/demo3.html" afterPath="$PROJECT_DIR$/demo3.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face/index.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/image/bg.png" afterPath="$PROJECT_DIR$/face/image/bg.png" />
+      <change beforePath="$PROJECT_DIR$/image/btn1.png" afterPath="$PROJECT_DIR$/face/image/btn1.png" />
+      <change beforePath="$PROJECT_DIR$/image/btn2.png" afterPath="$PROJECT_DIR$/face/image/btn2.png" />
+      <change beforePath="$PROJECT_DIR$/image/btn3.png" afterPath="$PROJECT_DIR$/face/image/btn3.png" />
+      <change beforePath="$PROJECT_DIR$/image/button4.png" afterPath="$PROJECT_DIR$/face/image/button4.png" />
+      <change beforePath="$PROJECT_DIR$/image/icon.png" afterPath="$PROJECT_DIR$/face/image/icon.png" />
+      <change beforePath="$PROJECT_DIR$/image/person.png" afterPath="$PROJECT_DIR$/face/image/person.png" />
+      <change beforePath="$PROJECT_DIR$/image/rec.png" afterPath="$PROJECT_DIR$/face/image/rec.png" />
+      <change beforePath="$PROJECT_DIR$/image/shibie.png" afterPath="$PROJECT_DIR$/face/image/shibie.png" />
+      <change beforePath="$PROJECT_DIR$/image/success.png" afterPath="$PROJECT_DIR$/face/image/success.png" />
+      <change beforePath="$PROJECT_DIR$/image/successa.png" afterPath="$PROJECT_DIR$/face/image/successa.png" />
+      <change beforePath="$PROJECT_DIR$/image/voice.png" afterPath="$PROJECT_DIR$/face/image/voice.png" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,13 +26,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo3.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo3.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/face/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="125" column="42" lean-forward="false" selection-start-line="125" selection-start-column="42" selection-end-line="125" selection-end-column="42" />
+            <state relative-caret-position="128">
+              <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="btn1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/face/image/btn1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="btn2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/face/image/btn2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="btn3.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/face/image/btn3.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="person.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/face/image/person.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -34,6 +75,7 @@
         <option value="$PROJECT_DIR$/demo2.html" />
         <option value="$PROJECT_DIR$/demo.html" />
         <option value="$PROJECT_DIR$/demo3.html" />
+        <option value="$PROJECT_DIR$/face/index.html" />
       </list>
     </option>
   </component>
@@ -48,8 +90,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="113" />
-    <option name="y" value="139" />
+    <option name="y" value="23" />
     <option name="width" value="1024" />
     <option name="height" value="675" />
   </component>
@@ -93,6 +134,17 @@
               <item name="nongda1" type="b2602c69:ProjectViewProjectNode" />
               <item name="nongda1" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="nongda1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nongda1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="face" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="nongda1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nongda1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="face" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="image" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -107,10 +159,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/face" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -142,12 +195,12 @@
       <workItem from="1551488876460" duration="3962000" />
       <workItem from="1551494188039" duration="8000" />
       <workItem from="1551494288392" duration="6471000" />
-      <workItem from="1551505277212" duration="3023000" />
+      <workItem from="1551505277212" duration="5354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13464000" />
+    <option name="totallyTimeSpent" value="15795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1024" height="768" extended-state="0" />
@@ -159,8 +212,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38129497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25356415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38129497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.107942976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -227,8 +280,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="125" column="42" lean-forward="false" selection-start-line="125" selection-start-column="42" selection-end-line="125" selection-end-column="42" />
+        <state relative-caret-position="252">
+          <caret line="112" column="37" lean-forward="false" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face/image/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face/image/person.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face/image/btn1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face/image/btn2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face/image/btn3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
           <folding />
         </state>
       </provider>
