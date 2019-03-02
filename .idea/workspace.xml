@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adfc46bb-d99a-41ba-ac61-4a554daab3c4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/face/index.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/image/bg.png" afterPath="$PROJECT_DIR$/face/image/bg.png" />
-      <change beforePath="$PROJECT_DIR$/image/btn1.png" afterPath="$PROJECT_DIR$/face/image/btn1.png" />
-      <change beforePath="$PROJECT_DIR$/image/btn2.png" afterPath="$PROJECT_DIR$/face/image/btn2.png" />
-      <change beforePath="$PROJECT_DIR$/image/btn3.png" afterPath="$PROJECT_DIR$/face/image/btn3.png" />
-      <change beforePath="$PROJECT_DIR$/image/button4.png" afterPath="$PROJECT_DIR$/face/image/button4.png" />
-      <change beforePath="$PROJECT_DIR$/image/icon.png" afterPath="$PROJECT_DIR$/face/image/icon.png" />
-      <change beforePath="$PROJECT_DIR$/image/person.png" afterPath="$PROJECT_DIR$/face/image/person.png" />
-      <change beforePath="$PROJECT_DIR$/image/rec.png" afterPath="$PROJECT_DIR$/face/image/rec.png" />
-      <change beforePath="$PROJECT_DIR$/image/shibie.png" afterPath="$PROJECT_DIR$/face/image/shibie.png" />
-      <change beforePath="$PROJECT_DIR$/image/success.png" afterPath="$PROJECT_DIR$/face/image/success.png" />
-      <change beforePath="$PROJECT_DIR$/image/successa.png" afterPath="$PROJECT_DIR$/face/image/successa.png" />
-      <change beforePath="$PROJECT_DIR$/image/voice.png" afterPath="$PROJECT_DIR$/face/image/voice.png" />
+      <change beforePath="$PROJECT_DIR$/face/index.html" afterPath="$PROJECT_DIR$/face/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/face/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="433">
+              <caret line="64" column="50" lean-forward="false" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -195,12 +182,12 @@
       <workItem from="1551488876460" duration="3962000" />
       <workItem from="1551494188039" duration="8000" />
       <workItem from="1551494288392" duration="6471000" />
-      <workItem from="1551505277212" duration="5354000" />
+      <workItem from="1551505277212" duration="6645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15795000" />
+    <option name="totallyTimeSpent" value="17086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1024" height="768" extended-state="0" />
@@ -212,7 +199,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38129497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38129497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.107942976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -313,8 +300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/face/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state relative-caret-position="433">
+          <caret line="64" column="50" lean-forward="false" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
           <folding />
         </state>
       </provider>

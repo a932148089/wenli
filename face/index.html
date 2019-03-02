@@ -49,6 +49,25 @@
             background-size: 100%;
         }
     </style>
+    <script>
+
+        window.onload=function (ev) {
+           var btn1=document.querySelector(".btn1");
+           var input=document.querySelector("input");
+           btn1.onclick=function () {
+               if (input.value==""){
+
+                 var speech=window.speechSynthesis;
+                 var speechobj=new SpeechSynthesisUtterance();
+                   speechobj.text="请输入您的名字";
+                   speech.speak(speechobj);
+               }else{
+                   location.href="http://baidu.com"
+               }
+           }
+
+        }
+    </script>
 </head>
 <body>
   <div class="person">
