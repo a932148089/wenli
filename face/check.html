@@ -76,12 +76,12 @@
                         var cobj = canvas.getContext("2d")
                         cobj.drawImage(video, 0, 0)
                         data = (canvas.toDataURL("image/jpeg").substr(23))
-                        fetch("/send", {
+                        fetch("/check", {
                             method: "post",
                             headers: {
                                 "content-type": "application/x-www-form-urlencoded"
                             },
-                            body: "url=" + data + "&name="+document.querySelector("input").value
+                            body: "url=" + data
                         }).then(function (value2) {
                             return value2.json()
                         }).then(function (value2) {
@@ -95,18 +95,18 @@
                                     speech.speak(speechobj)
                                 }
                             } else {
-                                console.log(value2)
                                 var speech = window.speechSynthesis
                                 var speechobj = new SpeechSynthesisUtterance()
-                                speechobj.text = "采集完毕"
+                                speechobj.text = value2.result[0]["user_info"]
                                 speech.speak(speechobj)
-                                location.href="/checkpage"
                             }
 
                         })
 
 
                     }
+                })
+            }
 
                 })
             }
@@ -124,7 +124,7 @@
 
 <div class="btn">
 
-    开启摄像头
+    对比人脸
 </div>
 </body>
 </html>
