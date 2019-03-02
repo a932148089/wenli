@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .box{
+            width:150px;height:200px;
+            border:2px solid #000;
+            margin:auto;
+            margin-top:100px;
+            position: relative;
+        }
+        .btn{
+            width:150px;height:50px;
+            background: aquamarine;
+            border-radius: 5px;
+            text-align: center;
+            line-height: 50px;
+            color: #fff;
+            font-weight: bold;
+            margin:auto;
+            margin-top: 200px;
+            cursor: pointer;
+        }
+        video{
+            width:150px;height: 200px;
+            position: absolute;left:0;top:0;
+        }
+        canvas{
+            position: absolute;
+            left:0;top:0
+        }
+    </style>
+
+    <script>
+
+        navigator.mediaDevices.getUserMedia(
+            {
+                video:{
+                    width:150,height:200
+                }
+            }
+        ).then(function (value) {
+
+            var video=document.querySelector("video");
+
+            video.srcObject=value
+        })
+    </script>
+</head>
+<body>
+
+
+
+   <div class="box">
+       <canvas width="150" height="200"></canvas>
+
+       <video src="" autoplay></video>
+   </div>
+
+   <div class="btn">
+
+       开启摄像头
+   </div>
+</body>
+</html>
